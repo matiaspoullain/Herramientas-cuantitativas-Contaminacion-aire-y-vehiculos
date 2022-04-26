@@ -1,7 +1,8 @@
-# <p align="center">Curso de posgrado: Herramientas cuantitativas para el abordaje de problemáticas socio-ambientales</p>
+# <p align="center">Caso de estudio 1: Contaminación del aire y circulación vehicular</p>
 ### <p align="center">Instituto del Cálculo - Universidad de Buenos Aires - Mayo 2022</p>
-## <p align="center">Caso de estudio 1: Contaminación del aire y circulación vehicular</p>
-#### <p align="center">Lic. Matias Poullain, Lic. Juan Martín Guerrieri</p>
+### <p align="center">![Logo IC](https://user-images.githubusercontent.com/58349277/165363596-36a9caaa-c062-4622-879d-d83407d13b92.png) <img src="https://user-images.githubusercontent.com/58349277/165362843-4a132fb0-7623-44d4-897e-7471ab172e40.png" width="131" height="131"></p>
+## <p align="center">[Curso de posgrado: Herramientas Cuantitativas para el Abordaje de Problemáticas Socio-ambientales](https://marsicofl.github.io/CursoAmbiente//)</p>
+#### <p align="center"> Profesores: Lic. Matias Poullain y Lic. Juan Martín Guerrieri</p>
 ---
 Este caso de estudio se divide en dos partes: una teórica y una práctica.
 
